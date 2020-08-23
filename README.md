@@ -1,5 +1,6 @@
+## Portfolio
 
-[Andi's Portfolio](https://andrealau.netlify.app/)
+Access here: [Andi's Portfolio](https://andrealau.netlify.app/)
 
 > Build to sow more living and less doing
 
@@ -12,6 +13,6 @@
 - [Tilt.js](https://gijsroge.github.io/tilt.js/) - JavaScript tiny parallax library
 - [Popper.js](https://popper.js.org/) - JavaScript popover library -->
 
-## Credits, Template By
+#### Template By
 
 - **Jacobo Martinez** - [https://github.com/cobidev](https://github.com/cobidev)
