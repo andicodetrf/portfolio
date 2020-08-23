@@ -41,7 +41,7 @@
   @include respond(phone) {
     background-image: none;
     border: 2px solid $secondary-color;
-    -webkit-text-fill-color: $secondary-color;
+    -webkit-text-fill-color: $primary-color;
   }
 
   &::after {
@@ -61,7 +61,7 @@
     text-decoration: none;
     // Responsive Button hover hero style
     @include respond(phone) {
-      -webkit-text-fill-color: $secondary-color;
+      -webkit-text-fill-color: $primary-color;
     }
 
     &::after {
