@@ -40,6 +40,6 @@
     "popper.js": "^1.16.1",
     "tilt.js": "^1.2.1",
     "serialize-javascript": ">=3.1.0",
-    "elliptic": ">=6.5.3"
+    "elliptic": ">=6.5.4"
   }
 }
